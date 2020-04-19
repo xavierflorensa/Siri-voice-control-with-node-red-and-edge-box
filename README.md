@@ -8,3 +8,6 @@ Python script siricontrol.py running on Schneider Electric linux Edge Box
 Node-red flow running on Schneider Electric linux Edge Box
 PLC programm (loaded with Somachine 4.3) running on a M241 
 Vijeo designer programm running on the HMI
+Explained here
+https://youtu.be/TXXrq4pVZLA
+
